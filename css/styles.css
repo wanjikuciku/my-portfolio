@@ -1,27 +1,31 @@
 *{
    margin: 0
-   padding: 2px
+   padding: 0
  }
  body{
    width: 100%;
    height: 100%;
-   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmZITpyVc01SMPMNGvbA2Ut6bsN5MyLuAqang7oVqJZCzFwIM0g");
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0syDJfGOMbr1RBWYI-9VndIqI4dgD1EYOjTGQItPss-NqDtt");
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   overflow-y: auto;
    font-family: 'Fruktur', cursive;
-   font-size: 30px;
+   font-size: 40px;
  }
- h1{
+ body h1{
    text-align: center;
+   font-size: 150%;
  }
 ul{
   list-style-type:none;
   font-size: 28px;
   margin: 5px 0;
-
-background-color: white;
-text-align: left;
+  text-align: left;
 }
 a{
   text-decoration: none;
+  font-size: 28px;
 }
 li{
   display:block;

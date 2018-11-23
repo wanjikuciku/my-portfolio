@@ -5,13 +5,12 @@
  body{
    width: 100%;
    height: 100%;
-   font-size: 14px;
-   font-weight: normal;
+   font-style:
  }
- .background{
+ *{
    width: 100%;
    height: 100%;
-   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZEQXPumAPB51WEv1by0Jg2TNXu7b_L4QPucZMR1H-LBZMS_e");
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLxxcOq8_DI2lbR02kWsxGUS7ObE53lPPKjmXjByQ7BSHZ4siw);
    background-repeat: no-repeat;
    background-size: cover;
    position: relative;

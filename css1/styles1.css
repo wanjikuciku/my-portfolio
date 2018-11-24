@@ -1,4 +1,7 @@
-*
+*{
+  margin: 0;
+  padding: 0;
+}
 body{
   background-image: url("https://wallpapercave.com/wp/P7Uwcss.jpg");
   background-position: center;
@@ -6,35 +9,37 @@ body{
   background-repeat: no-repeat;
   background-attachment: local;
   font-family: 'Bubblegum Sans', cursive;
+  padding: 20px;
 }
 p{
   font-size: 20px;
   text-align: left;
   text-decoration: none;
+  text-align: left;
+  padding-left: 20px;
 }
 ul{
   list-style-type:none;
   font-size: 18px;
-  margin: 2px 0;
+  margin: 5px 5px;
+  padding-left: 30px;
   text-align: left;
   color: purple;
 }
-.sidebar {
-  font-size: 36px;
-  float: right;
-}
-.main {
-  float: left;
-}
+body h1{
+  font-size: 80px;
+  text-align: right;
 }
 body h2{
   font-size: 28px;
-  text-align: left;
   color: black;
+  padding: 20px;
+  margin: 3px 3px;
 }
 body h3{
   font-size: 28px;
   text-align: left;
   color: black;
-
+  padding: 20px;
+  margin: 3px 3px;
 }

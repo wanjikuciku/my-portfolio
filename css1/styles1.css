@@ -8,25 +8,33 @@ body{
   font-family: 'Bubblegum Sans', cursive;
 }
 p{
-  font-size: 28px;
+  font-size: 20px;
   text-align: left;
   text-decoration: none;
 }
 ul{
   list-style-type:none;
-  font-size: 22px;
+  font-size: 18px;
   margin: 2px 0;
-  text-align: center;
+  text-align: left;
   color: purple;
 }
-body h1{
-  font-size: 40px;
-  text-align: center;
-  color: black;
+.sidebar {
+  font-size: 36px;
+  float: right;
+}
+.main {
+  float: left;
+}
 }
 body h2{
-  font-size: 40px;
-  text-align: center;
+  font-size: 28px;
+  text-align: left;
+  color: black;
+}
+body h3{
+  font-size: 28px;
+  text-align: left;
   color: black;
 
 }

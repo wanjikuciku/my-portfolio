@@ -1,3 +1,11 @@
 *{
-  background-image: url("https://slack-redir.net/link?url=https%3A%2F%2Fwallpapercave.com%2Fwp%2FP7Uwcss.jpg");
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url("https://wallpapercave.com/wp/P7Uwcss.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: local;
 }

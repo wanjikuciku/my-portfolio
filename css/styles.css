@@ -7,7 +7,7 @@
    height: 100%;
    background-image: url("https://wallpapercave.com/wp/P7Uwcss.jpg");
    background-repeat: no-repeat;
-    background-attachment: fixed;
+   background-attachment: local;
    background-size: cover;
    position: relative;
    overflow-y: auto;
@@ -15,14 +15,24 @@
    font-size: 40px;
  }
  body h1{
-   text-align: center;
-   font-size: 150%;
+   text-align: ri
+   font-size: 100%;
+   text-align: right;
+   text-transform: none;
+   text-decoration: underline;
+   text-decoration-style: double;
+ }
+ body h2{
+   text-align: right;
+   font-size: 30px;
+   text-decoration: underline;
  }
 ul{
   list-style-type:none;
   font-size: 28px;
-  margin: 5px 0;
+  margin: 2px 0;
   text-align: left;
+  text-decoration-color: blue;
 }
 a{
   text-decoration: none;
@@ -30,6 +40,11 @@ a{
 }
 li{
   display:block;
-  padding: 20px;
+  padding: 10px;
   text-align: left;
+}
+p {
+  <position: bottom;
+  text-align: left;
+  padding: 20px;
 }

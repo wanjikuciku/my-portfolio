@@ -17,11 +17,16 @@ ul{
   font-size: 22px;
   margin: 2px 0;
   text-align: center;
-  color: black;
+  color: purple;
 }
 body h1{
   font-size: 40px;
   text-align: center;
-  text-transform: none;
-  text-decoration-line: underline;
+  color: black;
+}
+body h2{
+  font-size: 40px;
+  text-align: center;
+  color: black;
+
 }

@@ -42,7 +42,9 @@ li{
   text-align: left;
 }
 p {
-  <position: bottom;
+  footer{
+    display: block;
+  }
   text-align: left;
   padding: 20px;
 }

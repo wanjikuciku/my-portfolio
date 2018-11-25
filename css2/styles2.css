@@ -4,49 +4,31 @@
 }
 body{
   background-image: url("https://wallpapercave.com/wp/P7Uwcss.jpg");
-  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-attachment: local;
-  position: relative;
+  background-repeat: no-repeat;
+  overflow-y:auto;
+  font-family: 'Fruktur', cursive;
+  font-size: 25px;
+  display: block;
 }
-.contact{
-  position: absolute;
-  right: 0;
-  top: 10px;
-  color: white;
-  padding: 0 60px;
-  display: none;
+body h1{
+  text-align: right;
+  font-size: 60px;
+  text-align: right;
+  text-transform: none;
+  text-decoration: underline;
+  text-decoration-style: double;
+  padding-bottom: 40px
 }
-.inputtext{
-  width: 55%;
-  height: 65px;
-  border: 3px solid black;
-  color: white;
-  background-color: rgba(0,0,0,0.7);
-  font-size: 20px;
-  padding: 0 10px;
-  margin-bottom: 15px;
-}
-.inputmessage{
-  width: 55%;
-  height: 135px;
-  border: 3px solid black;
-  color: white;
-  background-color: rgba(0,0,0,0.7);
-  font-size: 20px;
-  padding: 0 10px;
+p {
+  text-align: left;
+  padding: 10px;
+  opacity: 0.9;
   float: left;
 }
-.submitbutton{
-  width: 160px;
-  height: 65px;
-  background-color: white;
-  color; black;
-  font-size: 20px;
-  border: none;
-  font-weight: bold;
-  clear: both;
-  margin-top: 25px
-  float left;
+a{
+  text-decoration: underline;
+  text-align: left;
+  float: left;
 }

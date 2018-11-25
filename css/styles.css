@@ -1,6 +1,6 @@
 *{
-   margin: 0
-   padding: 0
+   margin: 0;
+   padding: 0;
  }
  body{
    background-image: url("https://wallpapercave.com/wp/P7Uwcss.jpg");
@@ -11,39 +11,39 @@
    overflow-y: auto;
    font-family: 'Fruktur', cursive;
    font-size: 40px;
- }
- body h1{
+  }
+  body h1{
    text-align: right;
    font-size: 100%;
    text-align: right;
    text-transform: none;
    text-decoration: underline;
    text-decoration-style: double;
- }
- body h2{
+  }
+  body h2{
    text-align: right;
    font-size: 30px;
    text-decoration: underline;
    opacity: 0.6;
- }
-ul{
-  list-style-type:none;
-  font-size: 28px;
-  margin: 3px 0;
-  text-align: left;
-  text-decoration-color: blue;
-}
-a{
-  text-decoration: none;
-  font-size: 28px;
-}
-li{
-  display:block;
-  padding: 10px;
-  text-align: left;
-}
-p {
-  text-align: left;
-  padding: 50px;
-  opacity: 0.9;
-}
+  }
+  ul{
+    list-style-type:none;
+    font-size: 28px;
+    margin: 3px 0;
+    text-align: left;
+    text-decoration-color: blue;
+  }
+  a{
+    text-decoration: none;
+    font-size: 28px;
+  }
+  li{
+    display:block;
+    padding: 10px;
+    text-align: left;
+  }
+  p {
+    text-align: left;
+    padding: 50px;
+    opacity: 0.9;
+  }
